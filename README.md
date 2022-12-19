@@ -1,6 +1,7 @@
 # Commands
 
 ## Kubectl
+Kubernetes Docs: <https://kubernetes.io/>
 
 | Command | Description   |
 |---|---|
@@ -20,6 +21,8 @@
 | `kubectl --namespace dmkdm-t edit deploy <deployment name>` | Edit Deployment to Change Specs and have a new Pod to test with. Use the `get deploy` command avove to receive deployment name |
 
 ## Helm
+Documentation: <https://helm.sh/>
+
 | Command | Description   |
 |---|---|
 | `helm repo add <name> <chart-http-address>` | add chart with name `<name>` from URL `<chart-http-address>` |
