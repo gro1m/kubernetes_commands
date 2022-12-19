@@ -27,6 +27,6 @@
 | `helm list -n <namespace>` | list charts in namespace `<namespace>`|
 
 
-## Helm Templating
+### Templating
 Article:
 - https://itnext.io/reference-other-values-in-helm-chart-values-file-19d44d9276c7
